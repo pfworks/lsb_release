@@ -8,7 +8,7 @@ short() {
 
 version() {
     short "LSB Version: "
-    echo ":ooma-shell-script-1.0"
+    echo ":LSB-bash-1.0"
 }
 
 distributor() {
